@@ -1,0 +1,44 @@
+{
+    "items" : [ {
+      "downloadUrl" : "http://localhost:8081/repository/maven-releases/com/rushikesh/apis/example/0.0.4/example-0.0.4.jar",
+      "path" : "com/rushikesh/apis/example/0.0.4/example-0.0.4.jar",
+      "id" : "bWF2ZW4tcmVsZWFzZXM6ZGZiZWYwOWVmZTE2NDRlYTNiYjk2N2M2N2M2NDBiZjI",
+      "repository" : "maven-releases",
+      "format" : "maven2",
+      "checksum" : {
+        "sha1" : "cf0969ef4794055efc05d68f38827affd3e8160d",
+        "sha256" : "382f4a51f39e84e75a7e17decf602bd810a65249038d182acad2a39d6b51048f",
+        "sha512" : "87e9fbdb646765443f9164cf8e96e14ecc604f2bd3aac4394cad71683f97bd22bde8682d187fa555094472a773c431c81c13df5f2620fbb08b6e13af63ac451b",
+        "md5" : "5f0189d64fb169c3646f33be06ce2459"
+      },
+      "contentType" : "application/java-archive",
+      "lastModified" : "2022-02-05T05:11:08.458+00:00",
+      "maven2" : {
+        "extension" : "jar",
+        "groupId" : "com.rushikesh.apis",
+        "artifactId" : "example",
+        "version" : "0.0.4"
+      }
+    }, {
+      "downloadUrl" : "http://localhost:8081/repository/maven-releases/com/rushikesh/apis/example/0.0.1/example-0.0.1.jar",
+      "path" : "com/rushikesh/apis/example/0.0.1/example-0.0.1.jar",
+      "id" : "bWF2ZW4tcmVsZWFzZXM6MWM3ODdhMDNkYjgyMDllYjdhNjMyYjBjNzdiNzc1ZGI",
+      "repository" : "maven-releases",
+      "format" : "maven2",
+      "checksum" : {
+        "sha1" : "1caf873aaa2badc260e6988847a22b0a6a22f493",
+        "sha256" : "d5f699b641b8242cd3c89427097883a837cfe9f6f076c71a65f31551a1f64f85",
+        "sha512" : "64cf67c7387522518b591938d3e48ef228241a5bfe6153d85b8f4e7bfd7dd7eec2ea6105a6d3484f20637ea416cb0c4259a3cdbbe232f07ae8fc76f00d792ee8",
+        "md5" : "66ae56f2d33f6b40a7786dc5c8c279ca"
+      },
+      "contentType" : "application/java-archive",
+      "lastModified" : "2022-02-05T05:04:44.491+00:00",
+      "maven2" : {
+        "extension" : "jar",
+        "groupId" : "com.rushikesh.apis",
+        "artifactId" : "example",
+        "version" : "0.0.1"
+      }
+    } ],
+    "continuationToken" : null
+  }

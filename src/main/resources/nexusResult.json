@@ -1,0 +1,33 @@
+{
+  "items": [
+      {
+          "id": "bWF2ZW4tcmVsZWFzZXM6YzYwYmM2Yjk2MTJmNDdkMzg4Yzk2MjJiODFkYTMzOTc",
+          "repository": "maven-releases",
+          "format": "maven2",
+          "group": "com.rushikesh.apis",
+          "name": "example",
+          "version": "0.0.1",
+          "assets": [
+              {
+                  "downloadUrl": "http://localhost:8081/repository/maven-releases/com/rushikesh/apis/example/0.0.1/example-0.0.1-javadoc.jar",
+                  "path": "com/rushikesh/apis/example/0.0.1/example-0.0.1-javadoc.jar",
+                  "id": "bWF2ZW4tcmVsZWFzZXM6MWM3ODdhMDNkYjgyMDllYmY1YzQ2NzQ1NmM2YjA4MTQ",
+                  "repository": "maven-releases",
+                  "format": "maven2",
+                  "checksum": {
+                      "sha1": "fa165098dbdddc0292dd6136d0a53210adf034de",
+                      "sha256": "b297dd4d554ef4f34740dafca4cfa67a0c7604e9ff56bc00d2f63672d77a94b0",
+                      "sha512": "cd6109d35f7e7d474db93a851e33dd61eb3779a0f3f0201735caaf6ef579776b8da612dffebb317d57f221026191a8b30d2c1b713d0fd6db276f1b85829f43df",
+                      "md5": "51753d0a2e23a872cc83e94753b424b4"
+                  },
+                  "contentType": "application/java-archive",
+                  "lastModified": "2022-02-05T05:04:45.850+00:00",
+                  "maven2": {
+                      "extension": "jar",
+                      "groupId": "com.rushikesh.apis",
+                      "classifier": "javadoc",
+                      "artifactId": "example",
+                      "version": "0.0.1"
+                  }
+              }]
+                }]}
